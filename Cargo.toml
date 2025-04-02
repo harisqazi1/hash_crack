@@ -1,0 +1,12 @@
+[package]
+name = "hash_crack"
+version = "0.1.0"
+edition = "2021"
+authors = ["Haris Qazi (Harisfromcyber)"]
+license-file = "LICENSE"
+description = "A simple hash cracking program"
+readme = "README.md"
+
+[dependencies]
+md5 = "0.7.0"
+indicatif = "0.17.11"
