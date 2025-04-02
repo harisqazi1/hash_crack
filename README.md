@@ -9,7 +9,7 @@ I made this to get more comfortable with Rust while writing my own hash cracker 
 Download the code and set up with Cargo:
 
 ```bash
-git clone https://codeberg.org/Harisfromcyber/hash_crack.git
+git clone https://github.com/harisqazi1/hash_crack.git
 cd hash_crack
 cargo build --release
 ./target/release/hash_crack hash MD5 words
